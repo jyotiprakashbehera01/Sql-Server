@@ -1,9 +1,10 @@
 
-
 KEY CONSTRAIN :
 
 defination:
--->
+-->It has rule and regulation tha we can used requard while creating a data base .
+-->It has reduced redudancy in data base .
+-->It has build relationship between in table .
 -->it contain 8 type of key CONSTRAIN.
 
 1.Primary key :
@@ -14,3 +15,54 @@ defination:
 5.default  :
 6.Check :
 7.index :
+
+1.PRIMARY KEY :
+
+-->Primary key is used to unique identify the records .
+-->Primary key cannot bi null .
+-->Primary key cannot be duplicacte .
+-->One table has only one primary key has possible .
+-->By default it will be the clouster index in the data table .
+-->It will be the faster interaction of the data form the application to data base .
+-->EX - Empid int primary key .
+        (fild  datatype   key CONSTRAIN)
+
+2.FORIGIN KEY :
+
+-->It use to make a relation among the table .
+-->It allow the null valu .
+-->It has allow the duplicate value .
+-->In  one table can contain more than one forigin key .
+-->The main purpose of f.k is make the relation & retrive the data form more than one table.
+-->EX -
+
+3.UNIQUE KEY :
+
+-->It has also used to unique identify the record .  
+-->IT  has allows null value .
+-->IT has allows duplicate value .
+-->In one table we can have more than one Unique key .
+-->Unique key allow one duplicate value .
+
+4.COMPOSITE KEY :
+
+-->It has the combination of primary key .
+-->It cannot be null .
+-->It cannot be duplicate .
+-->If you want to have more than one unique fild in the data table ,then we can used composite key .
+
+4.NOT NULL :
+
+-->It means the field cannot be blank's . It must have some value tritting the record .
+-->It has speci fied the field is mandetory .
+
+5.CHECK :
+
+-->It has used to defining the condiition at the time of treating table structure .
+-->If the check the condition satis faid they will insert the data table otherwise not .
+
+6.DEFAULT :
+
+-->It has the one of the key concept , which has provide different value specific to field .
+
+7.INDEX :
