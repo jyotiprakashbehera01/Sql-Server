@@ -1,0 +1,155 @@
+---SQL
+It is a structure query language.
+It is the data base language,it use to the ceration of daya base and fracting of the row , fracting of the coloum and deletion.
+it has merging for relational data base system(RDMS).
+it based on the relational algebra and tabale relational calculus.
+it has build he basic function storing and retriving the data as a requared by other application.
+
+---SQL requared
+1.cerat a data base 
+2.instal 
+3.update
+4.deletion
+5.retrive
+
+---Database
+It has organic colaection of data.
+the main process of database is perform the large amount of data information store and retrive the data .
+There are many database are present in serveer like...my sql , SQL server ,  mongoDB etc..
+
+----RDBMS
+RDBMS stands for relational data base mannage ment system.
+it ha enovate Renold F.E(1970-1972)
+
+--work
+RDBMS most commonly use relational data base mannagement system,it ti can content no of tabale when each tabnle contain PRIMARTY KEY.
+when the data is represent in row in RDBMS.
+due to organic collection of data table ,data are executed easyly.
+
+--table
+RDBMS use to store to data in table.
+table is the collection of the data it has stored row and coloum form.
+table is the simple sxample of data store data in RDBMS.
+
+
+--coloum
+coloum is the vertical entity of the table.
+it has the table containt all the information assoceated with the field.
+
+--row
+row is the horizental entityof the table.
+it has the table contain all the information asoceated with the record.
+ when row is also called as record.
+
+--Null
+it has the field it can not blanks ,when it has
+default association the field as give defaultvalue.
+
+--DBMS
+1.It store the application from the data files.
+2.It has the generaly store in the data tabale heirerchikal form amd navigational form.
+3.Ithas normalization present.
+4.there are the no relationship bet nmame.
+5.It has doesnot support disrinute data.
+6.it has generaly support data base mannagement syasyem.
+7.It deals with smal amount of data , it support single users .
+--RDMS
+1.It store application form data form table form .
+2.It generaly store data in tabular form.
+3.It has normalization not present .
+4.It has support distribute data.
+5.it has support large amount of data , It support multiple users .
+
+SQL SYNTAX :
+
+-->Sql following some rule and guid line called sql syntax .
+
+o	SQL is not case sensitive. Generally SQL keywords are written in uppercase.
+o	SQL statements are dependent on text lines.
+    We can place a single SQL statement on one or multiple text lines.
+o	You can perform most of the action in a database with SQL statements.
+o	SQL depends on relational algebra and tuple relational calculus.
+
+SQL STATEMENT :
+
+-->SQL statement are stated with any of the sql comand and key word :
+select , insert , update , deletion , alter , drop etc ..
+-->The statement ends with semicolon .
+
+
+SQL DATA TYPES :
+
+-->Data type is primary clasification in some 3 cata gories :
+1.Numeric data type.
+2.Time & Date data type.
+3.String data type .
+
+DATA TYPE :
+
+->Bigint
+->int
+->smallint
+->tinyint
+->bit 
+->decimal
+->numeric 
+->money
+->smallmoney
+
+APPROXIMATE NUMERIC DATA TYPE :
+
+-Mfloat
+rela 
+
+SERVER STRING DATA TYPE :
+
+Binary
+varbinary
+varbinary(max)
+text
+
+SERVER DATE AND TIME DATA TYPE :
+
+Date
+Time
+Datetime
+
+SQL OPERATOR :
+
+-->SQL statement can contain some reserved word or charecter that use perform some operation is called as OPERATOR .
+-->operator are devided into three part like :
+1.SQL Arethomatic operator:
++
+-
+*
+/
+%
+
+
+2.SQL Comparision operator .
+=
+!=
+<>
+>
+<
+<=
+>=
+!<
+!>
+
+
+
+3.SQL Logical operator :
+
+all
+and
+any      
+between 
+in 
+not 
+or 
+exist 
+like 
+
+
+

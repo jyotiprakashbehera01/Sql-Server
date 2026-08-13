@@ -1,0 +1,16 @@
+
+
+KEY CONSTRAIN :
+
+defination:
+-->
+-->it contain 8 type of key CONSTRAIN.
+
+1.Primary key :
+2.Forigin key :
+3.Unique key :
+5.Logic key :
+4. Null :
+5.default  :
+6.Check :
+7.index :
