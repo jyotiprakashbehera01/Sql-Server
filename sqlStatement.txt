@@ -1,0 +1,29 @@
+SQL STATEMENT :
+ 
+-->Sql statement is complet , valid comand written in structure query language(sql),
+   That is commmunicate with and performance action an relational database .
+-->This comand is instruct data base to perform task such as sorting , 
+   retring & mannaging the data in database structure .
+-->it has containt some various part :
+
+1.DQL(DATA QUERY LANGUAGE) :
+-->Select
+2.DDL(DATA DEFINATION LANGUAGE) :
+-->create
+-->alter
+-->drop
+-->trunket 
+-->rename
+3.DML(DATA MAUPULATION LANGUAGE) :
+-->insert
+-->update
+-->deletion
+4.DCL(DATA CONTROL LANGUAGE) :
+-->Grant 
+-->revoke
+5.TCL(TRANSCATION CONTROL LANGUAGE) :
+-->commit
+-->role back
+-->save point
+-->Bigin
+-->Transcation 
