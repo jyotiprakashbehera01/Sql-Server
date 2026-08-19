@@ -77,7 +77,7 @@ select , insert , update , deletion , alter , drop etc ..
 -->The statement ends with semicolon .
 
 
-SQL DATA TYPES :
+SQL DATA TYPES :..
 
 -->Data type is primary clasification in some 3 cata gories :
 1.Numeric data type.
