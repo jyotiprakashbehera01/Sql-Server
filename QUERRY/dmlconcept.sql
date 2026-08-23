@@ -26,7 +26,7 @@ SET Course = 'sql-Server'
 WHERE Student_id = 1;
 
 SELECT * FROM Student;
-
+-->Delet the record from 
 DELETE FROM Student
 WHERE Student_id = 2;
 

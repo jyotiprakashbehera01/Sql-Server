@@ -1,0 +1,20 @@
+STORE PROCIDURE :
+-->It is a group of statement which is created and store inside the database .
+-->It is object in sql server .
+-->It is used to reduced in network trafic .
+-->Store procidure is faster interaction of data form application to data base .
+-->It has input as well as output parameter .
+-->It will return 0 or N number of value .
+-->It use for security purpose .
+-->It has modular progaraming language .
+-->It used to DQL and DMl tranjaction .
+-->Inside the procidure we can pass the function .
+-->Inside the procidure we can used tricards block exception .
+-->IT is easy to modify and maintained .
+-->It is also used to reusability structure .
+-->There are two type of Stor procidure present :
+   1.Systemdefind 
+   -->Those has System by default provide in user .
+   
+   2.userdefind 
+   .
