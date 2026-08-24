@@ -18,3 +18,23 @@ STORE PROCIDURE :
    
    2.userdefind 
    .
+
+
+
+   tbl_Operator
+     |
+     |--- Insert_tbl_Operator_sp
+     |          ↓
+     |        INSERT
+     |
+     |--- Select_tbl_Operator_sp
+     |          ↓
+     |        SELECT
+     |
+     |--- Update_tbl_Operator_sp
+     |          ↓
+     |        UPDATE
+     |
+     |--- Delete_tbl_Operator_sp
+                ↓
+              DELETE
