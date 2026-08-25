@@ -1,0 +1,15 @@
+VIEW :
+
+-->View one of the object in sql server , Which is created and store inside the database .
+-->View is use to retrive the data from more than one data table .
+-->View is the merrorical representation of data table  .
+-->It is vertuall table .
+-->View is don't store eany data itself , It is only logical representation of data table .
+-->View is use for security purpose .
+-->View is use to faster interaction of the data from application of database .
+-->Then View is use for insert , update , deletion operation .
+-->View are two type in sql serveer :
+   1.System defined View .
+   -->It has by-default give in System .
+   2.User defined View .
+   -->
